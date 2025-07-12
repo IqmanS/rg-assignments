@@ -123,3 +123,12 @@ public class EmployeeCRUD {
         employeeCRUD.printAllEmployees();
     }
 }
+
+// > Employees in DB are:
+// 33. name='Verstappen', department='Data'
+// 44. name='Hamilton', department='Software'
+// 5. name='Vettel', department='IT'
+// 44. name='Hamilton', department='Software'
+// > Update Complete
+// Employee with ID 44 deleted.
+// > Delete Complete
